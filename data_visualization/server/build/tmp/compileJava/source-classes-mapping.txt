@@ -1,0 +1,12 @@
+com/example/server/WebConfig.java
+ com.example.server.WebConfig
+com/example/server/service/WeatherService.java
+ com.example.server.service.WeatherService
+com/example/server/repository/WeatherRepository.java
+ com.example.server.repository.WeatherRepository
+com/example/server/controller/WeatherController.java
+ com.example.server.controller.WeatherController
+com/example/server/Application.java
+ com.example.server.Application
+com/example/server/model/Weather.java
+ com.example.server.model.Weather
